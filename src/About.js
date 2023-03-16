@@ -20,14 +20,15 @@ const About = () => {
         </div>
 
         <p>
-          Hello! I'm Shahzaib, a software engineer based in Karachi, Web
+          Hello! I'm Dilushi, a software engineer based in Sri lanka, Web
           Developer with 1 years of experience in designing and developing
           user interfaces, and eCommerce technologies.
           Proven ability in optimizing web functionality that improve data
           retrieval and workflow efficiencies using modern frontend. <br />
-          <br /> Currently i am in 1st semester of my bachelors from SMIU
-            University of Pakistan.
-          </p>
+          <br /> Currently i am in 5th semester of my bachelors from University of
+          Sri Jayewardenepura in Sri Lanka
+
+        </p>
         <br />
         <p>
           Here are a few technologies I've been working with recently:
